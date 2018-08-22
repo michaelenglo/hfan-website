@@ -930,6 +930,7 @@ footer.footer .copyright {
   letter-spacing: 1px;
   text-transform: uppercase;
   border-radius: 0;
+  font-size: 1.5rem;
 }
 
 .btn-primary {
