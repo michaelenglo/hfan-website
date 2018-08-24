@@ -107,6 +107,11 @@ $(document).ready(function() {
 
   $(".portfolio-gallery").owlCarousel({
     items: 3,
+    navigation: true,
+    navigationText: [
+      "<i class='fa fa-angle-left'></i>",
+      "<i class='fa fa-angle-right'></i>"
+    ],
   });
 
   // Magnific Popup jQuery Lightbox Gallery Settings

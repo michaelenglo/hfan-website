@@ -317,6 +317,17 @@ header.video video {
   header.video video {
     display: none;
   }
+  #soft-launch {
+    background-position-x: -400px;
+  }
+
+  #touchdown{
+    background-position-x: -50px;
+  }
+
+  #touchdown-button{
+    margin-top: 21px;
+  }
 }
 
 .team-carousel .item {
@@ -409,6 +420,10 @@ header.video video {
   .call-to-action span.quote {
     font-size: 36px;
     line-height: 38px;
+  }
+
+  #touchdown-button{
+    margin-left: 42px;
   }
 }
 
